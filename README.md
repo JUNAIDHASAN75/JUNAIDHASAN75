@@ -1,6 +1,7 @@
+![I am Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/377781691_3575026936151350_4803083395900630887_n.png?stp=dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHurSG20B7OT1ZnsVgbw8-N2TmoOr38AqbZOag6vfwCppiM5cUU02nnENVDU--8-uOFwkwR7XU9oFY8kj-WBrFe&_nc_ohc=P5hoE8v2IrgQ7kNvgGF5tcp&_nc_ht=scontent.fdac24-1.fna&oh=00_AYBUJjJsUNoMthF50hn1BBOTbDedgAunAFCuFvna0T8mFg&oe=665F1228)
 ### Hi there 👋, My name is Junaid Hasan
 #### I am Web Developer
-![I am Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/377781691_3575026936151350_4803083395900630887_n.png?stp=dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHurSG20B7OT1ZnsVgbw8-N2TmoOr38AqbZOag6vfwCppiM5cUU02nnENVDU--8-uOFwkwR7XU9oFY8kj-WBrFe&_nc_ohc=P5hoE8v2IrgQ7kNvgGF5tcp&_nc_ht=scontent.fdac24-1.fna&oh=00_AYBUJjJsUNoMthF50hn1BBOTbDedgAunAFCuFvna0T8mFg&oe=665F1228)
+
 
 I am an enthusiastic learner and dedicated professional with a strong work ethic. As a self-motivated team player, I am seeking a developer position where I can leverage my skills and passion for technology to contribute effectively to your organization’s goals.
 
